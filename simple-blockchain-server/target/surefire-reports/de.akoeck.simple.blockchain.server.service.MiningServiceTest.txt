@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.akoeck.simple.blockchain.server.service.MiningServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.248 s - in de.akoeck.simple.blockchain.server.service.MiningServiceTest

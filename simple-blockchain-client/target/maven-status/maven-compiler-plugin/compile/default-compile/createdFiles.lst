@@ -1,0 +1,4 @@
+de\akoeck\simple\blockchain\client\SimpleBlockchainClient.class
+de\akoeck\simple\blockchain\client\domain\Wallet.class
+de\akoeck\simple\blockchain\client\SimpleBlockchainSettings.class
+de\akoeck\simple\blockchain\client\controller\SimpleBlockchainMainController.class
