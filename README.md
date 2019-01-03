@@ -11,6 +11,7 @@ Enthält das Domain Model als Basis für den Client und die Server Implementieru
 
 ## simple-blockchain-server
 Enthält die Implementierung eines Server Nodes auf Basis von Spring Boot. In der aktuellen Version ist der Master Node automatisch der Node der unter http://localhost:8080 läuft. Weitere Knoten die beispielsweise unter einem anderen Port laufen, können Teil des Netztwerks werden.
+Weitere Node können mit dem Parameter --server.port=PORTNUMMER gestartet werden.
 
 In kommenden Versionen müssen die Transaktionen noch ausgebaut werden (Transaction Output und Input). Zudem muss die Verwaltung der Nodes weiter ausgebaut werden. 
 
